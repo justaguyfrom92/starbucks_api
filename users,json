@@ -1,0 +1,35 @@
+{
+"results":
+[
+  {
+  "gender":"male",
+  "name":{"title":"Mr","first":"Max","last":"Wood"},
+  "location":{"street":{"number":8457,"name":"The Strand"},"city":"Christchurch","state":"Waikato","country":"New Zealand","postcode":45600,
+  "coordinates":{"latitude":"50.6727","longitude":"-62.0353"},
+  "timezone":{"offset":"+3:00",
+  "description":"Baghdad, Riyadh, Moscow, St. Petersburg"}},
+  "email":"max.wood@example.com",
+  "login":{
+  "uuid":"bf8de1d6-3302-4811-9fb0-8f638750e747",
+  "username":"sadbear558",
+  "password":"waterboy",
+  "salt":"onclIfex",
+  "md5":"b0de84046d3eb598e9a8baa472791abd",
+  "sha1":"76b002eaebca733f9cd3f88a532283c2f2614563",
+  "sha256":"dacdd40da56a00fa0d962fccd0a6a430b6da9acd8fe6446e4f7aa6ace0241dd9"},
+  "dob":{"date":"2001-04-01T04:36:49.442Z","age":22},
+  "registered":{"date":"2010-10-12T23:14:54.869Z","age":13},
+  "phone":"(543)-084-2449",
+  "cell":"(784)-382-3061",
+  "id":{"name":"","value":null},
+  "picture":
+  {
+    "large":"https://randomuser.me/api/portraits/men/19.jpg",
+    "medium":"https://randomuser.me/api/portraits/med/men/19.jpg",
+    "thumbnail":"https://randomuser.me/api/portraits/thumb/men/19.jpg"},
+    "nat":"NZ"
+  },
+
+],
+
+"info":{"seed":"e6698aeacf8675a6","results":5,"page":1,"version":"1.4"}}
