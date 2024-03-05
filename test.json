@@ -1,0 +1,34 @@
+{
+    "result":
+    [
+      {
+        "id": "0001",
+        "type": "hot",
+        "name": "Latte",
+        "image":
+        {
+          "small" : "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg",
+          "medium" : "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg",
+          "large" : "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg",
+          "xlarge" : "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg",
+        },
+      "size":
+        {
+          "small" : '3.50',
+          "medium" : '4.00',
+          "large" : '4.50',
+          "xlarge" : '5.00',
+        },
+        "topping":
+        [
+          { "id": "5001", "type": "None" },
+          { "id": "5002", "type": "Glazed" },
+          { "id": "5005", "type": "Sugar" },
+          { "id": "5007", "type": "Powdered Sugar" },
+          { "id": "5006", "type": "Chocolate with Sprinkles" },
+          { "id": "5003", "type": "Chocolate" },
+          { "id": "5004", "type": "Maple" }
+        ]
+      }
+    ]
+}
