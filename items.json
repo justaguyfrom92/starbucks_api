@@ -10,14 +10,14 @@
           { "id": "1001", "type": "small", "src": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg" },
           { "id": "1002", "type": "small", "src": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg" },
           { "id": "1003", "type": "small", "src": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg" },
-          { "id": "1004", "type": "small", "src": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg" },
+          { "id": "1004", "type": "small", "src": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg" }
         ],
       "sizes":
         [
           { "id": "9001", "type": "small"},
           { "id": "9002", "type": "medium"},
           { "id": "9003", "type": "large"},
-          { "id": "9004", "type": "xlarge"},
+          { "id": "9004", "type": "xlarge"}
         ],
         "topping":
         [
@@ -39,14 +39,14 @@
           { "id": "1001", "type": "small", "src": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeLatte.jpg" },
           { "id": "1002", "type": "small", "src": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeLatte.jpg" },
           { "id": "1003", "type": "small", "src": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeLatte.jpg" },
-          { "id": "1004", "type": "small", "src": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeLatte.jpg" },
+          { "id": "1004", "type": "small", "src": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeLatte.jpg" }
         ],
         "sizes":
         [
           { "id": "9001", "type": "small"},
           { "id": "9002", "type": "medium"},
           { "id": "9003", "type": "large"},
-          { "id": "9004", "type": "xlarge"},
+          { "id": "9004", "type": "xlarge"}
         ],
         "topping":
         [
