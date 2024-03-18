@@ -10,14 +10,14 @@
           "small" : "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg",
           "medium" : "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg",
           "large" : "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg",
-          "xlarge" : "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg",
+          "xlarge" : "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg"
         },
       "size":
         {
           "small" : '3.50',
           "medium" : '4.00',
           "large" : '4.50',
-          "xlarge" : '5.00',
+          "xlarge" : '5.00'
         },
         "topping":
         [
