@@ -37,9 +37,9 @@
         "images":
         [
           { "id": "1001", "type": "small", "src": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeLatte.jpg?impolicy=1by1_tight_288" },
-          { "id": "1002", "type": "small", "src": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeLatte.jpg" },
-          { "id": "1003", "type": "small", "src": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeLatte.jp?impolicy=1by1_tight_500" },
-          { "id": "1004", "type": "small", "src": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeLatte.jpg?impolicy=1by1_wide_topcrop_630" }
+          { "id": "1002", "type": "medium", "src": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeLatte.jpg" },
+          { "id": "1003", "type": "large", "src": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeLatte.jp?impolicy=1by1_tight_500" },
+          { "id": "1004", "type": "xlarge", "src": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeLatte.jpg?impolicy=1by1_wide_topcrop_630" }
         ],
         "sizes":
         [
