@@ -14,10 +14,10 @@
         ],
       "sizes":
         [
-          { "id": "9001", "type": "short", "size": "8oz", "price": '3.50'},
-          { "id": "9002", "type": "tall", "size": "12oz", "price": '4.00'},
-          { "id": "9003", "type": "grande", "size": "16oz", "price": '4.50'},
-          { "id": "9004", "type": "venti", "size": "20oz", "price": '5.00'}
+          { "id": "9001", "type": "short", "size": "8oz", "price": "3.50"},
+          { "id": "9002", "type": "tall", "size": "12oz", "price": "4.00"},
+          { "id": "9003", "type": "grande", "size": "16oz", "price": "4.50"},
+          { "id": "9004", "type": "venti", "size": "20oz", "price": "5.00"}
         ],
         "topping":
         [
