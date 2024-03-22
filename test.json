@@ -5,20 +5,20 @@
         "id": "0001",
         "type": "hot",
         "name": "Latte",
-        "image":
-        {
-          "small" : "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg",
-          "medium" : "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg",
-          "large" : "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg",
-          "xlarge" : "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg"
-        },
-      "size":
-        {
-          "small" : '3.50',
-          "medium" : '4.00',
-          "large" : '4.50',
-          "xlarge" : '5.00'
-        },
+        "images":
+        [
+          { "id": "1001", "type": "small", "src": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg?impolicy=1by1_tight_288" },
+          { "id": "1002", "type": "medium", "src": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg" },
+          { "id": "1003", "type": "large", "src": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg?impolicy=1by1_tight_500" },
+          { "id": "1004", "type": "xlarge", "src": "https://globalassets.starbucks.com/digitalassets/products/bev/SBX20190617_CaffeAmericano.jpg?impolicy=1by1_wide_topcrop_630" }
+        ],
+      "sizes":
+        [
+          { "id": "9001", "type": "short", "size": "8oz", "price": '3.50'},
+          { "id": "9002", "type": "tall", "size": "12oz", "price": '4.00'},
+          { "id": "9003", "type": "grande", "size": "16oz", "price": '4.50'},
+          { "id": "9004", "type": "venti", "size": "20oz", "price": '5.00'}
+        ],
         "topping":
         [
           { "id": "5001", "type": "None" },
